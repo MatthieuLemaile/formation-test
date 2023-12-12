@@ -1,4 +1,4 @@
-package service;
+package fr.oxyl.formationtest.service;
 
 public class Compute {
 

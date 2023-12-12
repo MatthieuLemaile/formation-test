@@ -1,4 +1,4 @@
-package service;
+package fr.oxyl.formationtest.service;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
@@ -17,8 +17,8 @@ class ComputeTest {
         Assertions.fail();
     }
 
-    //Ecrire un test qui vérifie le comportement de multiply2Numbers(2,3)
-    //Ecrire un test qui vérifie le comportement de isGreaterThan(19,7)
-    //Ecrire un test qui vérifie le comportement de isGreaterThan(19,19)
-    //Ecrire un test qui vérifie le comportement de divide2Numbers(3,0)
+    // Écrire un test qui vérifie le comportement de multiply2Numbers(2,3)
+    // Écrire un test qui vérifie le comportement de isGreaterThan(19,7)
+    // Écrire un test qui vérifie le comportement de isGreaterThan(19,19)
+    // Écrire un test qui vérifie le comportement de divide2Numbers(3,0)
 }
